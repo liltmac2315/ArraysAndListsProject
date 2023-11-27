@@ -52,14 +52,14 @@ namespace ArraysAndLists
              *
              * Try to be creative in your display
              */
-            //foreach (var item in evens) 
-            //{
-            //    Console.WriteLine($"{item}is an even number");
-            //}
-            //foreach (var item in odds)
-            //{
-            //    Console.WriteLine($"{item}is an odd number");
-            //}
+            foreach (var item in evens)
+            {
+                Console.WriteLine($"{item}is an even number");
+            }
+            foreach (var item in odds)
+            {
+                Console.WriteLine($"{item}is an odd number");
+            }
 
         }
     }
